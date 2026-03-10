@@ -159,6 +159,9 @@ collections:
     output: true
     # this is needed to avoid adding language here, like /:collection/:lang/:title/
     permalink: /:collection/:title/
+  events:
+    output: true
+    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
