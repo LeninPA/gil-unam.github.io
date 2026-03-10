@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: 🐈‍⬛ Home
+title: 🐈‍⬛ Inicio
 permalink: /
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -29,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-At the *Grupo de Ingeniería Lingüística* (GIL) from UNAM, we are dedicated to research in natural language processing (NLP), computational linguistics, and language engineering, with the goal of developing projects and applications that address the needs and challenges of automatic language processing in collaboration with various academic areas.
+En el Grupo de Ingeniería Lingüística (GIL) de la UNAM, nos dedicamos a la investigación en procesamiento del lenguaje natural (PLN), lingüística computacional e ingeniería lingüística, con el propósito de desarrollar proyectos y aplicaciones que respondan a las necesidades y desafíos del tratamiento automático del lenguaje en colaboración con diversas áreas académicas.
 
-We are currently working on a central applied research project focused on creating an onomasiological search system: a dictionary that allows users to find terms from descriptions of concepts in natural language, and which serves as the coordinating axis of our different research lines.
+Actualmente, trabajamos en un proyecto central de investigación aplicada enfocado en la creación de un sistema de búsqueda onomasiológica, un diccionario que permite encontrar términos a partir de la descripción de conceptos en lenguaje natural, y que constituye el eje articulador de nuestras distintas líneas de investigación.

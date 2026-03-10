@@ -1,14 +1,14 @@
-- title: Informações Gerais
+- title: Información
   type: map
   contents:
-    - name: Nome Completo
-      value: Albert Einstein
-    - name: Data de Nascimento
-      value: 14 de março de 1879
+    - name: Nombre Completo
+      value: Grupo de Ingeniería Lingüística
+    - name: Fundación
+      value: agosto de 1999
     - name: Idiomas
-      value: Inglês, Alemão
+      value: Español, Inglés
 
-- title: Educação
+- title: Educación
   type: time_table
   contents:
     - title: PhD
