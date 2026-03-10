@@ -206,6 +206,15 @@ exclude:
   - readme_preview/
   - UPGRADING.md
   - vendor
+  - _pages/**/blog.md
+  - _pages/**/repositories.md
+  - _pages/**/cv.md
+  - _pages/**/teaching.md
+  - _pages/**/projects.md
+  - _pages/**/profiles.md
+  - _posts/
+  - _projects/
+  - assets/jupyter/blog.ipynb 
 keep_files:
   - CNAME
   - .nojekyll
